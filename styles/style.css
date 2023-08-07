@@ -267,10 +267,6 @@
   padding: 0 50px 90px 50px;
 }
 
-.header__adress {
-  margin: 0;
-}
-
 .footer__menu {
   display: flex;
   flex-direction: column;
